@@ -2,8 +2,8 @@
   "title": "Maryam Ataei",
   "titleTemplate": "",
   "welcomeText": "# Hey there, \n #          It's nice to meet you. \n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "Maryam Ataei",
-  "icon": "Maryam Ataei",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""

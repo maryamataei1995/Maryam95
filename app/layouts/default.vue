@@ -30,11 +30,11 @@ export default class DefaultLayout extends Vue {}
 <style lang="scss">
 .divider {
   position: relative;
-  min-width: 100vw;
+  min-width: 50vw;
   margin-top: auto;
 }
 
 .nuxt {
-  transition: all 0.5s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: all 0.5s cubic-bezier(0.55, 0, 0.1, 2);
 }
 </style>
